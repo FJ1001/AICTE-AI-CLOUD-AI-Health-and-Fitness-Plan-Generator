@@ -7,7 +7,7 @@ from agno.tools.duckduckgo import DuckDuckGoTools
 from agno.exceptions import ModelProviderError
 
 # Set API Key 
-GOOGLE_API_KEY = "AIzaSyD5AbscbixxBp-J46KFoYYTYlIJf1NAaOA"
+GOOGLE_API_KEY = "Put your key here"
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 #Helper function to handle rate limits
